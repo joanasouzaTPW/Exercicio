@@ -1,0 +1,8 @@
+body{margin:0; background-color: aquamarine; font-family: Arial, Helvetica, sans-serif;}
+*{box-sizing: border-box;} /* todos os valores de padding e border passam a estar incluídos no valor total da largura de um elemento*/
+figure{margin: 0;}
+.top-article{display: flex; flex-direction: row;  justify-content: space-between; width: 100%; max-width: 1100px; margin: 0 auto; padding: 40px;}
+.top-article figure{width: 49%;}
+.top-article img {width: 100%;}
+.top-article header{width: 49%;}
+h1{font-size: 40px; margin: 0;}
